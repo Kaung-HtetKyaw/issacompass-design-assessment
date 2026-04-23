@@ -47,4 +47,3 @@ For architecture and module-level diagrams:
 - notification
 - payment
 - agents + MCP (future)
-# issacompass-design-assessment
